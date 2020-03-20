@@ -24,6 +24,8 @@ Hello guys. Today I was finaly able to play the game. I hope this helps at least
 
 -Paste them on your TemTem Settings folder (C:\Users\YouHere\AppData\LocalLow\Crema\Temtem) Replace if needed.
 
+Even tho is a possible fix for a specific problem, maybe it could fix another crashes. I saw a lot of people with similar problems, black screens, crash after character creation, chash on second logging, crash after playing for some hours etc. So try it out and share results.
+
 My game is on Steam.
 My screen is 1920x1080
 PC with 4 gb RAM.
